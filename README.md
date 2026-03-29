@@ -1,6 +1,6 @@
 # AIAI Dashboard for 3D Visualization of Customer Clusters
 
-## What's AIAI?
+## AIAI's challenge:
 
 Amazing International Airlines Inc. (AIAI) is facing the challenge of designing personalized services and marketing strategies for its diverse customer base.
 Customer loyalty membership data and corresponding flight activity collected over a three-year period was analysed and a data-driven segmentation strategy was developed in order
