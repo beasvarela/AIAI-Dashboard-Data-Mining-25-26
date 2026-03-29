@@ -25,3 +25,13 @@ different file from app.py
 
 
 * both datasets were needed for stakeholder sharing purposes: although the clusters were formed using scaled data, the stakeholders still need meaningful real-life values
+
+
+<img width="459" height="549" alt="Captura de ecrã 2026-03-29, às 16 11 21" src="https://github.com/user-attachments/assets/fb995526-e8b9-41b4-b4c5-0e9f8dd5da6e" />
+
+
+
+
+
+
+
